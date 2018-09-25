@@ -1,0 +1,9 @@
+body {
+    min-height: 200px;
+}
+
+.navbar-static-top {
+
+    z-index: 1000;
+
+}

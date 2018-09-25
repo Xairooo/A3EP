@@ -1,0 +1,58 @@
+.Message {
+	padding: 15px 15px 15px 45px;
+	border-radius: 2px;
+	position: relative;
+	margin-bottom: 10px;
+	color: #fff;
+}
+
+	.Message:before {
+		font-family: 'FontAwesome';
+		position: absolute;
+		top: 15px;
+		left: 15px;
+		font-size: 20px;
+	}
+	
+.Message_error {
+	background: #b52b38;
+}
+
+	.Message_error:before {
+		content: '\f06a';
+	}
+
+.Message_success {
+	background: #53902f;
+}
+
+	.Message_success:before {
+		content: '\f00c';
+	}
+
+.Message_warning {
+	background: #c48712;
+}
+
+	.Message_warning:before {
+		content: '\f071';
+	}
+
+.Message_info, .Message_information {
+	background: #447a9a;
+}
+
+	.Message_info:before, .Message_information:before {
+		content: '\f05a';
+	}
+
+.Message_code {
+	padding: 7px;
+	display: inline-block;
+	background: rgba(0,0,0,0.2);
+	border-radius: 3px;
+	float: right;
+	margin-top: -7px;
+	margin-right: -7px;
+	color: rgba(255,255,255,0.8);
+}

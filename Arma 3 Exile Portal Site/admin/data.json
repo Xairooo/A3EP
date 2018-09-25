@@ -1,0 +1,208 @@
+[
+  {
+    "name": "Overview",
+    "url": "security.php",
+    "module": "Secuirty Center"
+  },
+  {
+    "name": "Enhancements",
+    "url": "enhancements.php",
+    "module": "Overview"
+  },
+  {
+    "name": "Steam Web API",
+    "url": "enhancements.php",
+    "module": "Overview"
+  },
+  {
+    "name": "Google Analytics",
+    "url": "enhancements.php",
+    "module": "Overview"
+  },
+  {
+    "name": "General Configuration",
+    "url": "generalconfiguration.php",
+    "module": "Overview"
+  },
+  {
+    "name": "Site name",
+    "url": "generalconfiguration.php",
+    "module": "Overview"
+  },
+  {
+    "name": "Portal Online",
+    "url": "generalconfiguration.php",
+    "module": "Overview"
+  },
+  {
+    "name": "Copyright Line",
+    "url": "generalconfiguration.php",
+    "module": "Overview"
+  },
+  {
+    "name": "Upgrade Notifications",
+    "url": "generalconfiguration.php",
+    "module": "Overview"
+  },
+  {
+    "name": "Incoming Email Address",
+    "url": "generalconfiguration.php",
+    "module": "Overview"
+  },
+  {
+    "name": "Outgoing Email Address",
+    "url": "generalconfiguration.php",
+    "module": "Overview"
+  },
+  {
+    "name": "License Key",
+    "url": "licensekey.php",
+    "module": "Overview"
+  },
+  {
+    "name": "Login handlers",
+    "url": "loginhandlers.php",
+    "module": "Overview"
+  },
+  {
+    "name": "Garage Setings",
+    "url": "garagesettings.php",
+    "module": "Portal"
+  },
+
+  {
+    "name": "Inventory Settings",
+    "url": "inventorysettings.php",
+    "module": "Portal"
+  },
+  {
+    "name": "Territory Sttings",
+    "url": "tcsettings.php",
+    "module": "Portal"
+  },
+  {
+    "name": "Clan Settings",
+    "url": "tcsettings.php",
+    "module": "Portal"
+  },
+  {
+    "name": "Manage Announcements",
+    "url": "manageannouncements.php",
+    "module": "Portal"
+  },
+  {
+    "name": "Manage blog",
+    "url": "blogposts.php",
+    "module": "Portal"
+  },
+  {
+    "name": "Database Manager",
+    "url": "dbmanager.php",
+    "module": "Exile Server"
+  },
+  {
+    "name": "Manage Members",
+    "url": "members.php",
+    "module": "Members"
+  },
+  {
+    "name": "Registration Settings",
+    "url": "registrationsettings.php",
+    "module": "Members"
+  },
+  {
+    "name": "Allow new registrations?",
+    "url": "registrationsettings.php",
+    "module": "Members"
+  },
+  {
+    "name": "Notify on new registrations?",
+    "url": "registrationsettings.php",
+    "module": "Members"
+  },
+  {
+    "name": "Spam Prevention",
+    "url": "spamprevention.php",
+    "module": "Members"
+  },
+  {
+    "name": "reCAPTCHA Site Key",
+    "url": "spamprevention.php",
+    "module": "Members"
+  },
+  {
+    "name": "reCAPTCHA Secret Key",
+    "url": "spamprevention.php",
+    "module": "Members"
+  },
+  {
+    "name": "General Configuration",
+    "url": "servermanager.php",
+    "module": "Exile Server"
+  },
+  {
+    "name": "Addon configuration",
+    "url": "addonconfiguration.php",
+    "module": "Exile Server"
+  },
+  {
+    "name": "Addon Username",
+    "url": "addonconfiguration.php",
+    "module": "Exile Server"
+  },
+  {
+    "name": "Addon Password",
+    "url": "addonconfiguration.php",
+    "module": "Exile Server"
+  },
+  {
+    "name": "Addon IP",
+    "url": "addonconfiguration.php",
+    "module": "Exile Server"
+  },
+  {
+    "name": "Addon Port",
+    "url": "addonconfiguration.php",
+    "module": "Exile Server"
+  },
+  {
+    "name": "Database Configuration",
+    "url": "dbmanager.php",
+    "module": "Exile Server"
+  },
+  {
+    "name": "IP:PORT",
+    "url": "dbmanager.php",
+    "module": "Exile Server"
+  },
+  {
+    "name": "Schema",
+    "url": "dbmanager.php",
+    "module": "Exile Server"
+  },
+  {
+    "name": "Username",
+    "url": "dbmanager.php",
+    "module": "Exile Server"
+  },
+  {
+    "name": "Password",
+    "url": "addonconsole.php",
+    "module": "Exile Server"
+  },
+  {
+    "name": "Manage Server Images",
+    "url": "servergallery.php",
+    "module": "Customization"
+  },
+  {
+    "name": "Page Manager ",
+    "url": "pages.php",
+    "module": "Customization"
+  },
+  {
+    "name": "Language",
+    "url": "lang.php",
+    "module": "Customization"
+  }
+]
