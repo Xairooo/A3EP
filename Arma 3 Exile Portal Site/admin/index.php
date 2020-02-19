@@ -62,7 +62,7 @@ require("header.php");
 ?>
       <!-- Main row -->
       <div class="row">
-        <?php } else {} ?>
+        <?php/* } else {} */?>
         <!-- Left col -->
         <div class="col-md-8">
            <div class="box box-success">
